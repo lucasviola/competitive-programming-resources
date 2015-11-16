@@ -1,8 +1,8 @@
 # So you want to be a topcoder?
 
-## What is this about?
-How to start competing at TopCoder and similar websites,
-algorithms you should know to be proficient at it, events and
+#### What is this about?
+How to start competing at [TopCoder](https://www.topcoder.com) and similar websites,
+The knowledge of [algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/) you should have to be proficient at it, events and
 IRL competitions, competitors you should follow.
 
 #### Table of Contents
