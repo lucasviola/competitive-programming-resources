@@ -42,7 +42,7 @@ IRL competitions, competitors you should follow.
 
 #### Discussions
 - [What is it like to meet or know Petr Mitrichev](https://www.quora.com/What-it-is-like-to-meet-or-know-Petr-Mitrichev)
-
+- [Data Structures: What is a list of data structures that a competitive programmer must know?](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
 #### Algorithms
 - Dynamic Programming
 	- [Dynamic Programming - From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
