@@ -52,6 +52,7 @@ IRL competitions, competitors you should follow.
 - [What is competitive programming?](https://www.quora.com/What-is-competitive-programming-2)
 - [How is competitive programming different from real life programming?](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
 - [What are some good pieces of music to listen to while coding](https://www.quora.com/What-are-some-good-pieces-of-music-to-listen-to-while-coding)
+- [How can a beginner train for machine learning contests](https://www.quora.com/How-can-a-beginner-train-for-machine-learning-contests)
 
 #### Algorithms
 - Dynamic Programming
