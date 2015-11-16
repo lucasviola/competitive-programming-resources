@@ -40,9 +40,15 @@ IRL competitions, competitors you should follow.
 	- [Profile on CodeChef](https://www.codechef.com/users/gennady.korotkevich)
 	- [Profile on Quora](https://www.quora.com/topic/Gennady-Korotkevich)
 
+- Brian Bi
+	- [Profile on Quora](https://www.quora.com/profile/Brian-Bi)
+	- [Profile on Twitter](https://twitter.com/t3nsor)
+	- [Profile on Github](https://github.com/t3nsor)
+
 #### Discussions
 - [What is it like to meet or know Petr Mitrichev](https://www.quora.com/What-it-is-like-to-meet-or-know-Petr-Mitrichev)
 - [Data Structures: What is a list of data structures that a competitive programmer must know?](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
+
 #### Algorithms
 - Dynamic Programming
 	- [Dynamic Programming - From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
