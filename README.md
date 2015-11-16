@@ -1,7 +1,9 @@
 # So you want to be a topcoder?
 
 ## What is this about?
-So I'm trying to ge a broader knowledge on algorithms
+How to start competing at TopCoder and similar websites,
+algorithms you should know to be proficient at it, events and
+IRL competitions, competitors you should follow.
 
 #### Table of Contents
   - How to Start
@@ -9,3 +11,13 @@ So I'm trying to ge a broader knowledge on algorithms
   - Events
   - Competitors
   - Discussions
+
+#### Online Competition
+- [Topcoder](https://www.topcoder.com/)
+- [Codeforces](http://codeforces.com/)
+- [Codechef](https://www.codechef.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
+#### Discussions
+
+
