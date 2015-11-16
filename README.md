@@ -13,6 +13,7 @@ IRL competitions, competitors you should follow.
 - Discussions
 - Algorithms
 - Math for Programmers
+
 #### Online Competition
 - [Topcoder](https://www.topcoder.com/)
 - [Codeforces](http://codeforces.com/)
