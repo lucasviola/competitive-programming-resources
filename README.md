@@ -11,12 +11,27 @@ IRL competitions, competitors you should follow.
   - Events
   - Competitors
   - Discussions
+  - Algorithms
 
 #### Online Competition
 - [Topcoder](https://www.topcoder.com/)
 - [Codeforces](http://codeforces.com/)
 - [Codechef](https://www.codechef.com/)
 - [HackerRank](https://www.hackerrank.com/)
+
+#### Events
+- [TopCoder Open](http://tco15.topcoder.com/)
+- [International Olympiad in Informatics - IOI](http://www.ioinformatics.org/index.shtml)
+
+#### Competitors
+- Petr Mitrichev
+	- [Blog](http://petr-mitrichev.blogspot.com/)
+	- [Profile on TopCoder](https://www.topcoder.com/members/Petr/)
+	- [The Story of Petr Mitrichev](https://community.topcoder.com/tc?module=Static&d1=features&d2=070805)
+	- [Profile on Quora](https://www.quora.com/topic/Petr-Mitrichev)
+
+- Gennady Korotkevich
+	- []()	
 
 #### Discussions
 
