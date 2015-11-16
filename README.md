@@ -41,3 +41,14 @@ IRL competitions, competitors you should follow.
 
 #### Discussions
 - [What is it like to meet or know Petr Mitrichev](https://www.quora.com/What-it-is-like-to-meet-or-know-Petr-Mitrichev)
+
+#### Algorithms
+- Dynamic Programming
+	- [Dynamic Programming - From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
+
+- Graphs
+- Trees
+- Computational Complexity
+- Data Structures
+- Sorting
+- Binary Search
