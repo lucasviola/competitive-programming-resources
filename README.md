@@ -6,13 +6,13 @@ The knowledge of [algorithms](https://www.topcoder.com/community/data-science/da
 IRL competitions, competitors you should follow.
 
 #### Table of Contents
-  - How to Start
-  - Online Competition
-  - Events
-  - Competitors
-  - Discussions
-  - Algorithms
-
+- How to Start
+- Online Competition
+- Events
+- Competitors
+- Discussions
+- Algorithms
+- Math for Programmers
 #### Online Competition
 - [Topcoder](https://www.topcoder.com/)
 - [Codeforces](http://codeforces.com/)
