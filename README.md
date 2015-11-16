@@ -21,7 +21,10 @@ IRL competitions, competitors you should follow.
 
 #### Events
 - [TopCoder Open](http://tco15.topcoder.com/)
-- [International Olympiad in Informatics - IOI](http://www.ioinformatics.org/index.shtml)
+- [IOI - International Olympiad in Informatics](http://www.ioinformatics.org/index.shtml)
+- [ICPC - International Collegiate Programming Contest](https://icpc.baylor.edu/)
+- [Google Code Jam](https://code.google.com/codejam)
+- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 
 #### Competitors
 - Petr Mitrichev
@@ -37,5 +40,4 @@ IRL competitions, competitors you should follow.
 	- [Profile on Quora](https://www.quora.com/topic/Gennady-Korotkevich)
 
 #### Discussions
-
-
+- [What is it like to meet or know Petr Mitrichev](https://www.quora.com/What-it-is-like-to-meet-or-know-Petr-Mitrichev)
