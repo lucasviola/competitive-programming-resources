@@ -30,8 +30,11 @@ IRL competitions, competitors you should follow.
 	- [The Story of Petr Mitrichev](https://community.topcoder.com/tc?module=Static&d1=features&d2=070805)
 	- [Profile on Quora](https://www.quora.com/topic/Petr-Mitrichev)
 
-- Gennady Korotkevich
-	- []()	
+- Gennady Korotkevich (tourist)
+	- [Profile on TopCoder](https://www.topcoder.com/members/tourist/)
+	- [Profile on CodeForces](http://codeforces.com/profile/tourist)	
+	- [Profile on CodeChef](https://www.codechef.com/users/gennady.korotkevich)
+	- [Profile on Quora](https://www.quora.com/topic/Gennady-Korotkevich)
 
 #### Discussions
 
