@@ -50,6 +50,7 @@ IRL competitions, competitors you should follow.
 - [Data Structures: What is a list of data structures that a competitive programmer must know?](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
 - [How does one prepare for the IOI? (Aiming for gold)](https://www.quora.com/How-does-one-prepare-for-the-IOI-Aiming-for-gold)
 - [What is competitive programming?](https://www.quora.com/What-is-competitive-programming-2)
+- [How is competitive programming different from real life programming?](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
 
 #### Algorithms
 - Dynamic Programming
