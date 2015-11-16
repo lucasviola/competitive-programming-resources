@@ -51,6 +51,7 @@ IRL competitions, competitors you should follow.
 - [How does one prepare for the IOI? (Aiming for gold)](https://www.quora.com/How-does-one-prepare-for-the-IOI-Aiming-for-gold)
 - [What is competitive programming?](https://www.quora.com/What-is-competitive-programming-2)
 - [How is competitive programming different from real life programming?](https://www.quora.com/How-is-competitive-programming-different-from-real-life-programming)
+- [What are some good pieces of music to listen to while coding](https://www.quora.com/What-are-some-good-pieces-of-music-to-listen-to-while-coding)
 
 #### Algorithms
 - Dynamic Programming
