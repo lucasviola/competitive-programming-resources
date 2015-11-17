@@ -6,13 +6,13 @@ The knowledge of [algorithms](https://www.topcoder.com/community/data-science/da
 IRL competitions, competitors you should follow.
 
 #### Table of Contents
-- How to Start
-- Online Competition
-- Events
-- Competitors
-- Discussions
-- Algorithms
-- Math for Programmers
+- [How to Start](https://github.com/lucasviola/competitive-programming-resources#how-to-start)
+- [Online Competition](https://github.com/lucasviola/competitive-programming-resources#online-competition)
+- [Events](https://github.com/lucasviola/competitive-programming-resources#events)
+- [Competitors](https://github.com/lucasviola/competitive-programming-resources#competitors)
+- [Discussions](https://github.com/lucasviola/competitive-programming-resources#discussions)
+- [Algorithms](https://github.com/lucasviola/competitive-programming-resources#algorithms)
+- [Math for Programmers](https://github.com/lucasviola/competitive-programming-resources#math-for-programmers)
 
 #### Online Competition
 - [Topcoder](https://www.topcoder.com/)
