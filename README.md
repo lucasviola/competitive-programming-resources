@@ -65,3 +65,5 @@ IRL competitions, competitors you should follow.
 - Data Structures
 - Sorting
 - Binary Search
+
+#### Math for programmers
