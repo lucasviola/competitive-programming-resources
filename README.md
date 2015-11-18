@@ -58,7 +58,7 @@ IRL competitions, competitors you should follow.
 #### Algorithms
 - Dynamic Programming
 	- [Dynamic Programming - From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-
+	- [Dynamic Programming for Programming Competitions - Lecture](https://www.youtube.com/watch?v=Ad0DKl7HUwI)
 - Graphs
 - Trees
 - Computational Complexity
