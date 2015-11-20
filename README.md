@@ -71,3 +71,4 @@ IRL competitions, competitors you should follow.
 
 #### Math for programmers
 - [Mathematics for Computer Science MIT Open Coursware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+- [Quora - What are some must know topics in discrete math and probability for competitive programming](https://www.quora.com/What-are-some-must-know-topics-in-discrete-math-and-probability-for-competitive-programming)
