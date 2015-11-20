@@ -70,3 +70,4 @@ IRL competitions, competitors you should follow.
 - Binary Search
 
 #### Math for programmers
+- [Mathematics for Computer Science MIT Open Coursware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
