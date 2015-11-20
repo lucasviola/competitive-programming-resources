@@ -54,6 +54,7 @@ IRL competitions, competitors you should follow.
 - [What are some good pieces of music to listen to while coding](https://www.quora.com/What-are-some-good-pieces-of-music-to-listen-to-while-coding)
 - [How can a beginner train for machine learning contests](https://www.quora.com/How-can-a-beginner-train-for-machine-learning-contests)
 - [What is a list of Data Structures that a Competitive Programmer must know](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
+- [Are there any good resources or tutorials for Dynamic Programming besides the TopCoder tutorial](https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-besides-the-TopCoder-tutorial)
 
 #### Algorithms
 - Dynamic Programming
