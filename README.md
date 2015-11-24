@@ -56,6 +56,7 @@ IRL competitions, competitors you should follow.
 - [What is a list of Data Structures that a Competitive Programmer must know](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
 - [Are there any good resources or tutorials for Dynamic Programming besides the TopCoder tutorial](https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-besides-the-TopCoder-tutorial)
 - [What is needed to become good algorithmist like top rankers in Topcoder/Spoj/CCJ?](https://www.quora.com/What-is-needed-to-become-good-algorithmist-like-top-rankers-in-Topcoder-Spoj-GCJ)
+- [How did Adam D'Angelo improved so fast in TopCoder](https://www.quora.com/How-did-Adam-DAngelo-improve-so-fast-in-TopCoder)
 
 #### Algorithms
 - Dynamic Programming
