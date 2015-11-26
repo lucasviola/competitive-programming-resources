@@ -57,6 +57,7 @@ IRL competitions, competitors you should follow.
 - [Are there any good resources or tutorials for Dynamic Programming besides the TopCoder tutorial](https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-besides-the-TopCoder-tutorial)
 - [What is needed to become good algorithmist like top rankers in Topcoder/Spoj/CCJ?](https://www.quora.com/What-is-needed-to-become-good-algorithmist-like-top-rankers-in-Topcoder-Spoj-GCJ)
 - [How did Adam D'Angelo improved so fast in TopCoder](https://www.quora.com/How-did-Adam-DAngelo-improve-so-fast-in-TopCoder)
+- [What are some reasons a programmer should participate in a programming competition such as TopCoder](https://www.quora.com/What-are-some-reasons-a-programmer-should-participate-in-a-programming-competition-such-as-TopCoder)
 
 #### Algorithms
 - Dynamic Programming
